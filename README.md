@@ -1,4 +1,7 @@
+<div align="center">
 # An Augmented MetiTarski Dataset for Real Quantifier Elimination using Machine Learning
+[![Conference](https://img.shields.io/badge/CICM-2023-red)](https://cicm-conference.org/2023/cicm.php)
+</div>
 
 Part of **The Cueology of Proof: The CoProof Project**
 
@@ -26,10 +29,10 @@ conda activate coprover-augmented-metitarski
 If you find this work useful, please consider citing:
 
 ```tex
-@article{hester2023revisiting,
+@inproceedings{hester2023revisiting,
   title={{An Augmented Metitarski Dataset for Real Quantifier Elimination using Machine Learning}},
   author={Hester, John and Hitaj, Briland and Passmore, Grant and Owre, Sam and Shankar, Natarajan and Yeh, Eric},
-  journal={16th Conference on Intelligent Computer Mathematics (CICM'23)},
+  booktitle={Proceedings of the 16th Conference on Intelligent Computer Mathematics (CICM'23)},
   year={2023}
 }
 ```
