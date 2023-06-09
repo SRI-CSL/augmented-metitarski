@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center">    
+
 # An Augmented MetiTarski Dataset for Real Quantifier Elimination using Machine Learning
-[![Conference](https://img.shields.io/badge/CICM-2023-red)](https://cicm-conference.org/2023/cicm.php)
+[![Conference](https://img.shields.io/badge/CICM-2023-red](https://cicm-conference.org/2023/cicm.php)
+
 </div>
 
 Part of **The Cueology of Proof: The CoProof Project**
