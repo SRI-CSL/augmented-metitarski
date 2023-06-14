@@ -3,7 +3,7 @@
 # An Augmented MetiTarski Dataset for Real Quantifier Elimination using Machine Learning
 
 [![Conference](https://img.shields.io/badge/CICM-2023-yellow)](https://cicm-conference.org/2023/cicm.php)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--SA-green)](./LICENSE)
 
 </div>
 
