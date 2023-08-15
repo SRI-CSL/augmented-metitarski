@@ -1,0 +1,6 @@
+3 
+hong_2.rlqe.redlog 
+x1 - 1 
+2*x2^2 - x1 
+x3 - 1 
+-x3*(x1 - x2^2) 
