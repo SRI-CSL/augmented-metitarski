@@ -1,0 +1,9 @@
+3 
+polypaver-sqrt43-int-3vars-chunk-0077.rlqe.redlog 
+x3*(x1^2*x2 - 6*x2 + 12) 
+x1*(x1^2*x2 - 6*x2 + 12) 
+5000000*x2 - 15707963 
+31415927 - 10000000*x2 
+x2 - 2*x1 
+x3 
+x1 - x3 
