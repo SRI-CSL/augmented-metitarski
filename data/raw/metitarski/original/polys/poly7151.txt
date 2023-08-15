@@ -1,0 +1,7 @@
+3 
+sin-problem-7-weak-chunk-0061.rlqe.redlog 
+x2 + x1^2 - 1 
+-x3 
+-x1 
+x2 
+1 - x2 
