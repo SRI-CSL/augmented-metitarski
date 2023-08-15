@@ -1,0 +1,11 @@
+3 
+atan-vega-3-chunk-0433.rlqe.redlog 
+1 - x1*x2 
+-(x1*x2 - 1)^3 
+(x1*x2 - 1)^2 
+-x2 
+-x1 
+x3 
+x1 + 1 
+1 - x2 
+x2 - x1 

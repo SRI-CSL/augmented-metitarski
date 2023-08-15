@@ -1,0 +1,7 @@
+3 
+sum_of_powers_5_petter-node2345.translated.rlqe.redlog 
+235*x1 + 42*x2 
+- 235*x1 - 42*x2 
+x1^2 + x2^2 - 1 
+x3 - 289 
+-x3 
