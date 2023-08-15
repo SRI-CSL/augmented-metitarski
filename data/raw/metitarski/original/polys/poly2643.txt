@@ -1,0 +1,7 @@
+3 
+atan-problem-2-sqrt-weak-chunk-0062.rlqe.redlog 
+70*x1^2 + 15*x1^4 + 63 
+x3 
+x1 + 1 
+1 - x2 
+x2 - x1 
