@@ -1,0 +1,7 @@
+3 
+steiner-lehmus-theorem-node4530.translated.rlqe.redlog 
+- 42*x2 - 235*x1 
+42*x2 + 235*x1 
+x2^2 + x1^2 - 1 
+x3 - 289 
+-x3 
