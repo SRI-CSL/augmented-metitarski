@@ -1,0 +1,7 @@
+3 
+ternary5-node679.rlqe.redlog 
+- 42*x2 - 235*x3 
+x1 
+x2^2 + x3^2 - 1 
+x1 - 289 
+-x1 

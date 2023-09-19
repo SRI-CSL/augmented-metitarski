@@ -1,0 +1,4 @@
+3 
+TRM-essentials-4-node121984.translated.rlqe.redlog 
+x2^2 + x3^2 - 1 
+9 - 20*x1 

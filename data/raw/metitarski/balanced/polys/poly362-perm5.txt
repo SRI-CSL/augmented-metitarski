@@ -1,0 +1,4 @@
+3 
+train-node7233.translated.rlqe.redlog 
+- 42*x2 - 235*x1 
+x3 

@@ -1,0 +1,8 @@
+3 
+atan-vega-3-chunk-0157.rlqe.redlog 
+-x3 
+- 70*x3^2 - 15*x3^4 - 63 
+x2 
+x1 + 1 
+1 - x3 
+x3 - x1 

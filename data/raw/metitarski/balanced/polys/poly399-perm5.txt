@@ -1,0 +1,4 @@
+3 
+water_tank-node24597.translated.rlqe.redlog 
+- 42*x2 - 235*x1 
+207*x3^2 - 5175000*x3 + 43125000000 

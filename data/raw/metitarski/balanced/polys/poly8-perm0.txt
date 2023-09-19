@@ -1,0 +1,6 @@
+3 
+hong_16.rlqe.redlog 
+x1 - 1 
+x2 - 2 
+x3 - 4 
+x3 + x1*x2 - 5 

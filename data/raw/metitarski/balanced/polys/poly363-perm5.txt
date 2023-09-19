@@ -1,0 +1,7 @@
+3 
+train_goal2-node5210.translated.rlqe.redlog 
+- 42*x3 - 235*x2 
+x1 
+x3^2 + x2^2 - 1 
+x1 - 289 
+-x1 

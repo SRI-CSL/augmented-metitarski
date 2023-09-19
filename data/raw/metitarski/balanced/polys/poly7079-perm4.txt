@@ -1,0 +1,7 @@
+3 
+sin-problem-7-chunk-0347.rlqe.redlog 
+x3^2 - x1 - 1 
+x1 - 1 
+-x3 
+-x2 
+x1 

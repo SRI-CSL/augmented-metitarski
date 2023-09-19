@@ -1,0 +1,5 @@
+3 
+Chua-1-VC1-L-chunk-0042.rlqe.redlog 
+x1^2 + x3^2 - 1 
+x2 - 75 
+-x2 

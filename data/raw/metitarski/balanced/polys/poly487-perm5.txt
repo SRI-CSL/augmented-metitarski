@@ -1,0 +1,5 @@
+3 
+Arthan1A-chunk-0015.rlqe.redlog 
+235*x2 + 42*x1 
+x3 - 289 
+-x3 

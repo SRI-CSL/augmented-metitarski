@@ -1,0 +1,5 @@
+3 
+sin-344-3-weak-chunk-0012.rlqe.redlog 
+2*x1 - x2 
+1 - 20*x3 
+x1 - x3 

@@ -1,0 +1,5 @@
+3 
+TRM-essentials-4-node122108.translated.rlqe.redlog 
+x2 - 4*x1 
+x3 - 120 
+100 - x3 

@@ -1,0 +1,5 @@
+3 
+simple_example_2-node1136.translated.rlqe.redlog 
+- 42*x2 - 235*x3 
+x1 - 289 
+-x1 

@@ -1,0 +1,6 @@
+3 
+Chua-2-VC1-U-chunk-0017.rlqe.redlog 
+471*x1*x2 - 100*x3 - 300*x2 + 157*x1*x3 - 800*x1^2*x2 
+x1 
+x3 
+x2 

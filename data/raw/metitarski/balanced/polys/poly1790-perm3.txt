@@ -1,0 +1,6 @@
+3 
+Chua-2-VC1-L-chunk-0116.rlqe.redlog 
+x1^2 - 80*x3^2 - 75 
+x3 
+x1 
+x2 

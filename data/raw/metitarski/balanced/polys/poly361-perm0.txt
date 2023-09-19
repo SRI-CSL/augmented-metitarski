@@ -1,0 +1,7 @@
+3 
+to_left-node1505.translated.rlqe.redlog 
+x3 
+- 42*x1 - 235*x2 
+x1^2 + x2^2 - 1 
+x3 - 289 
+-x3 

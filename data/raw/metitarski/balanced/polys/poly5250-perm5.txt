@@ -1,0 +1,7 @@
+3 
+exp-problem-10-3-weak-chunk-0118.rlqe.redlog 
+5000000*x3 - 15707963 
+31415927 - 10000000*x3 
+2*x1 - x3 
+-x2 
+x1 - x2 

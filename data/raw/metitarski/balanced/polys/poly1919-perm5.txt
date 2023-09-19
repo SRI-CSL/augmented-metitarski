@@ -1,0 +1,8 @@
+3 
+Chua-2-VC2-L-chunk-0022.rlqe.redlog 
+-x3 
+(x3^2 + x2^2)*(x3^2 + x1^2) 
+x3 
+x1 
+2 - x2 
+x2 - x1 

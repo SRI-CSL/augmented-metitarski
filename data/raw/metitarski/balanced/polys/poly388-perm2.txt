@@ -1,0 +1,4 @@
+3 
+water_tank-node19176.translated.rlqe.redlog 
+-x1 
+- 42*x2 - 235*x3 

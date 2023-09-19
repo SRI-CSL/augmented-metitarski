@@ -1,0 +1,9 @@
+3 
+FTRM-agree-mutual2-all-node3453.translated.rlqe.redlog 
+x2 - 5 
+x1 - 2 
+x2 - 1 
+x2 - 12 
+x2 - x3 - 10 
+x1 - 3 
+x2 - 5 

@@ -1,0 +1,8 @@
+3 
+polypaver-sqrt-circles-1a-chunk-0012.rlqe.redlog 
+-x3 
+5000000*x2 - 15707963 
+31415927 - 10000000*x2 
+x2 - 2*x3 
+x1 
+x3 - x1 

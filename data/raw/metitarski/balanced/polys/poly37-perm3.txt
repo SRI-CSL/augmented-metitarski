@@ -1,0 +1,17 @@
+3 
+FTRM-agree-mutual2-simplified-node1443.translated.rlqe.redlog 
+x3 
+2*x3 - x1 + 5 
+x3 
+5 - x1 
+x2 - 2 
+x1 - 1 
+x1 - 12 
+x2 - 1 
+x2 - 3 
+x1 - 2*x3 - 1 
+x1 - 5 
+x1 - 5 
+4*x3 - 2*x1 + 10 
+x3 
+x1 - 5 

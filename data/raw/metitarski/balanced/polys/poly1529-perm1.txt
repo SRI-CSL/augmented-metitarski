@@ -1,0 +1,7 @@
+3 
+Chua-2-IL-L-chunk-0044.rlqe.redlog 
+7*x3 - 750 
+x3 
+x2^2 + x1^2 - 1 
+x3 - 75 
+-x3 

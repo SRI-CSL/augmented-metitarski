@@ -1,0 +1,5 @@
+3 
+kissing_4_9.rlqe.redlog 
+- 42*x2 - 235*x1 
+x3 - 289 
+-x3 

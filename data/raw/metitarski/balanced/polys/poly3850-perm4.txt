@@ -1,0 +1,7 @@
+3 
+atan-vega-3-weak-chunk-0218.rlqe.redlog 
+60*x3^2 - 12*x3 - 120*x3^3 + 1 
+12*x3 - 60*x3^2 + 120*x3^3 - 1 
+x2 - 1 
+x3 
+x1 

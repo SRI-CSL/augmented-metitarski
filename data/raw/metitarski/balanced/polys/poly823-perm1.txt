@@ -1,0 +1,5 @@
+3 
+CONVOI2-chunk-0027.rlqe.redlog 
+19*x3 - 1000 
+3*x1 - 13*x2 
+13*x2 - 3*x1 

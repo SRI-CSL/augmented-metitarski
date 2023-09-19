@@ -1,0 +1,8 @@
+3 
+sin-problem-7-chunk-0328.rlqe.redlog 
+x1^3*(10*x1*x3^2 + 24*x1^2*x3 + 16*x1^3 + x3^3) 
+x2 - 1 
+2*x3 - 3 
+x1 
+2 - x3 
+33 - 32*x2 

@@ -1,0 +1,5 @@
+3 
+Chua-1-IL-L-chunk-0019.rlqe.redlog 
+x3^2 + x1^2 - 1 
+x2 - 289 
+-x2 

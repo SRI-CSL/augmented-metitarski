@@ -1,0 +1,6 @@
+3
+(abstract ML syntax version of) atan-vega-3-chunk-0498.rlqe.redlog
+$ _ ($*x2 _ $*$*x3 _ $)
+x3
+x2
+x1

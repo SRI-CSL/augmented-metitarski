@@ -1,0 +1,9 @@
+3 
+sin-problem-7-chunk-0263.rlqe.redlog 
+-x2 
+250*x3 - 45*x2 - 36*x3*x2 
+x1 - 1 
+2*x3 - 3 
+x2 
+2 - x3 
+33 - 32*x1 

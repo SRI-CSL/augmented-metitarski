@@ -1,0 +1,6 @@
+3 
+square_root_zuse-node902.rlqe.redlog 
+- 42*x2 - 235*x3 
+x2^2 + x3^2 - 1 
+x1 - 289 
+-x1 

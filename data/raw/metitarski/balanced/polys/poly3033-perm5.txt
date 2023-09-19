@@ -1,0 +1,8 @@
+3 
+atan-problem-2-weakT-chunk-0046.rlqe.redlog 
+-x3 
+1 - x3*x2 
+x1 
+x2 + 1 
+1 - x3 
+x3 - x2 

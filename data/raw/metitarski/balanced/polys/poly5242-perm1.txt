@@ -1,0 +1,4 @@
+3 
+exp-problem-10-3-weak-chunk-0110.rlqe.redlog 
+2*x2*x1 
+5*x3 - 7 

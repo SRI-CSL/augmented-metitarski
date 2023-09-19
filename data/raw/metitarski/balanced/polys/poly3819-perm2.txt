@@ -1,0 +1,6 @@
+3 
+atan-vega-3-weak-chunk-0187.rlqe.redlog 
+2304*x2^6 
+x1 - 1 
+x3 
+x2 

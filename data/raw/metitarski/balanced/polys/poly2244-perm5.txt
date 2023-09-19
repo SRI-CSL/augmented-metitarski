@@ -1,0 +1,9 @@
+3 
+Nichols-Plot-Inverted-Pendulum-Fails-1-6-chunk-0202.rlqe.redlog 
+-x2 
+-x3 
+x3*x2*x1 - x2 - x1 - x3 
+x1 
+x2 + 1 
+1 - x3 
+x3 - x2 

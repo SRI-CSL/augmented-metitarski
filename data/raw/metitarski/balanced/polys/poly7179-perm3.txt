@@ -1,0 +1,5 @@
+3 
+sin-problem-7-weak-chunk-0089.rlqe.redlog 
+3086*x1 - 1914*x3 + 3828*x2 - 957*x1*x3 + 1000*x1*x2 + 1914*x3*x2 + 500*x1^2 - 3828 
+1 - x1 
+x1 

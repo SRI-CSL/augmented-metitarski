@@ -1,0 +1,6 @@
+3 
+atan-vega-3-weak-chunk-0115.rlqe.redlog 
+-x1^15 
+x3 - 1 
+x1 
+x2 

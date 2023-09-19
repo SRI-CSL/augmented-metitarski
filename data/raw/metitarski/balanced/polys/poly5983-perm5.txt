@@ -1,0 +1,8 @@
+3 
+polypaver-sqrt43-int-4vars-chunk-0028.rlqe.redlog 
+x1 
+1000*x3 - 2000*x2 - 1 
+5000000*x3 - 15707963 
+31415927 - 10000000*x3 
+x1 
+x2 - x1 

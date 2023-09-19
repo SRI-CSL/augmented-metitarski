@@ -1,0 +1,6 @@
+3 
+atan-vega-3-chunk-0511.rlqe.redlog 
+- 5*x3 - 5*x1 - 5*x2 - 32 
+x3 
+x1 
+x2 

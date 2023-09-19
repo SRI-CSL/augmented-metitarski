@@ -1,0 +1,5 @@
+3 
+square_root_floor_dijkstra-node3265.translated.rlqe.redlog 
+x3^2 + x2^2 - 1 
+x1 - 289 
+-x1 

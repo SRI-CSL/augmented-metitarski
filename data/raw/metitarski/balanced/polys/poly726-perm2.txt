@@ -1,0 +1,5 @@
+3 
+CMOS-opamp-chunk-0258.rlqe.redlog 
+-x1 
+1770*x3 - 689*x2 
+689*x2 - 1770*x3 

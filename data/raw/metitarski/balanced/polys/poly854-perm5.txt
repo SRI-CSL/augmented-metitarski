@@ -1,0 +1,6 @@
+3 
+Chua-1-IL-L-chunk-0013.rlqe.redlog 
+13*x1 - 3*x2 
+3*x2 - 13*x1 
+x3 - 289 
+-x3 
